@@ -19,12 +19,12 @@
       }
     },
     {
-      "name": "The Earth Project - Global Earth Initiative",
-      "goal": 1500,
-      "amountRaised": 1500,
-      "logoUrl": "http://www.earthmicrobiome.org/files/2016/04/EMP_logo_no_background.png",
+      "name": "The Wind Project - Global Wind Initiative",
+      "goal": 2250,
+      "amountRaised": 750,
+      "logoUrl": "https://www.apexcleanenergy.com/wp-content/themes/bridge-child/siting_ss/turbine-siting/turbine-siting/images/apex_logo.png",
       "themeColors": {
-        "primary": "#8dc642"
+        "primary": "#176792"
       }
     }
   ]
