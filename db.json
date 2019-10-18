@@ -17,6 +17,15 @@
       "themeColors": {
         "primary": "#8dc642"
       }
+    },
+    {
+      "name": "The Earth Project - Global Earth Initiative",
+      "goal": 1500,
+      "amountRaised": 1500,
+      "logoUrl": "http://www.earthmicrobiome.org/files/2016/04/EMP_logo_no_background.png",
+      "themeColors": {
+        "primary": "#8dc642"
+      }
     }
   ]
 }
