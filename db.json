@@ -4,7 +4,19 @@
       "name": "The Water Project - Global Water Initiative",
       "goal": 1158,
       "amountRaised": 987,
-      "logoUrl": "https://hwepc.org.np/wp-content/uploads/2018/09/water-project-logo.png"
+      "logoUrl": "https://hwepc.org.np/wp-content/uploads/2018/09/water-project-logo.png",
+      "themeColors": {
+        "primary": "#764094"
+      }
+    },
+    {
+      "name": "The Earth Project - Global Earth Initiative",
+      "goal": 1158,
+      "amountRaised": 987,
+      "logoUrl": "http://www.earthmicrobiome.org/files/2016/04/EMP_logo_no_background.png",
+      "themeColors": {
+        "primary": "#8dc642"
+      }
     }
   ]
 }
